@@ -1,5 +1,5 @@
 # EyeCal
-Code for receptive-fields' eye movement correction. To use the code, 
+Code for receptive-fields' eye movement correction paper published in .... To use the code, 
 1. Download the data from ...... and place it under ./data/ directory where the code is.
 2. Open eye_cal file and specify the experiment name.
 3. Run eye_cal
