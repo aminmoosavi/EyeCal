@@ -22,5 +22,5 @@ The experiment databases with the .db extensions include a Matlab table named "l
   
   "xpos" and "ypos" are the eye positions in the camera coordinates.
   
-  "signal" specifies the neuronal responses. In cells of 10 time bins in each trial and N neurons. In the above example, we have 505 total neurons.
+  "signal" specifies the neuronal responses. In each cell, there are 10 time bins (each trial is 200ms and is divided into intervals of 20ms) and N neurons. In the above example, we have 505 total neurons.
             
