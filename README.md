@@ -17,7 +17,10 @@ The experiment databases with the .db extensions include a Matlab table named "l
             .      .        .      .      .              .            .          .                .        .
             
   In this data structure, each row is associated with a trial in the experiment.
+  
   Referring to the paper, we have k,l, and s parameters that specify the stimuli. In the above data set, k="kx", l="ky", s="sign".
+  
   "xpos" and "ypos" are the eye positions in the camera coordinates.
+  
   "signal" specifies the neuronal responses. In cells of 10 time bins in each trial and N neurons. In the above example, we have 505 total neurons.
             
