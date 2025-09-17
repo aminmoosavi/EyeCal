@@ -1,4 +1,4 @@
-# Rf_eye_correct
+# EyeCal
 Code and data for receptive-fields' eye movement correction.
 
 
