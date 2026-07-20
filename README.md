@@ -1,5 +1,5 @@
 # EyeCal
-Code for the receptive fields' eye movement correction paper `Subspace reverse-correlation estimation of receptive fields during free viewing` published in the Journal of Vision. To use the code, 
+Code for the receptive fields' eye movement correction paper ***Subspace reverse-correlation estimation of receptive fields during free viewing*** published in the Journal of Vision. To use the code, 
 1. Download the data from the figshare repository [https://doi.org/10.6084/m9.figshare.32257377](https://doi.org/10.6084/m9.figshare.32257377) and place it under ./data/ directory where the code is.
 2. Open eye_cal file and specify the experiment name.
 3. Run eye_cal
